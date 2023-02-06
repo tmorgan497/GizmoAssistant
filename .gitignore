@@ -1,3 +1,12 @@
+activate_venv.bat
+poetry.lock
+.vscode/
+json.log
+tempCodeRunnerFile.py
+installed_modules.txt
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
